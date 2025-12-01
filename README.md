@@ -1,7 +1,7 @@
 # British_Informatics_Olympiad_Solutions
 Some British Informatics Olympiad Solutions written in C++ (Work in Progress) 
 
-If anybody would like to contribute solutions that do not exist on this repository, please email them to fenwickyduck.com.
+If anybody would like to contribute solutions that do not exist on this repository, please email them to fenwickyduck@gmail.com.
 
 Solutions
 -----
